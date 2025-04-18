@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ChickGameMaterials_0: -6317341179777756865
+      ChickGameMaterials_1: -1976293505754967490
+      ChickGameMaterials_2: 5323372602608901210
+      ChickGameMaterials_3: 3102929636586181288
+      ChickGameMaterials_4: 5463236699012794336
+      ChickGameMaterials_5: -8392249381571434612
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

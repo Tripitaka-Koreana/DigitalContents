@@ -8,5 +8,4 @@ public class cshBreakableObject : MonoBehaviour
     {
         Instantiate(destroyEffectPrefab, transform.localPosition, Quaternion.identity);
     }
-
 }
